@@ -9,15 +9,17 @@ class movie
     public $language;
     public $genre;
     public $director;
+    
 
 
-    public function __construct($title, $year, $language, $genre, $director)
+    public function __construct($title, $year, $language, $genre, $director )
     {
         $this->title = $title;
         $this->year = $year;
         $this->language = $language;
         $this->genre = $genre;
         $this->director = $director;
+        
     }
 
     public function printMovie(){

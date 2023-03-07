@@ -8,7 +8,7 @@ $azione = new Genre ('azione');
 $comico = new Genre ('comico');
 
 
-$pirati_dei_caraibi_1 = new Movie ('La maledizione della prima luna', 2003, 'inglese' , $azione, 'Gore Verbinski' );
+$pirati_dei_caraibi_1 = new Movie ('La maledizione della prima luna', 2003, 'inglese' , $azione, 'Gore Verbinski ' );
 $pirati_dei_caraibi_2 = new Movie ('La maledizione del forziere fantasma', 2006, 'inglese' ,  $comico , 'Gore Verbinski' );
 $pirati_dei_caraibi_3 = new Movie ('Ai confini del mondo', 2007, 'inglese' , $azione, 'Gore Verbinski' );
 $pirati_dei_caraibi_4 = new Movie ('Oltre i confini del mare', 2011, 'inglese' ,  $comico, 'Rob Marshall' );
