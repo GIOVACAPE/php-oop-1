@@ -15,3 +15,4 @@ Modificare la classe Movie in modo che accetti piú di un genere.
 Bonus 2:
 
 Creare un layout completo per stampare a schermo una lista di movies
+
