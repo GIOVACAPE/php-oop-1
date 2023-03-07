@@ -10,7 +10,7 @@ include __DIR__ . '/data/data.php' ;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- bootsrap -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js" integrity="sha512-1/RvZTcCDEUjY/CypiMz+iqqtaoQfAITmNSJY17Myp4Ms5mdxPS5UV7iOfdZoxcGhzFbOm6sntTKJppjvuhg4g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <title>PHP movie GC</title>
+    <title>PHP movie Gc</title>
 </head>
 <body>
     <div>
